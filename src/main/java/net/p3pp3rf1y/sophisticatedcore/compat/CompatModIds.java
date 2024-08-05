@@ -9,4 +9,5 @@ public class CompatModIds {
 	public static final String QUARK = "quark";
 	public static final String ITEM_BORDERS = "itemborders";
 	public static final String CHIPPED = "chipped";
+	public static final String THIRST = "thirst";
 }
